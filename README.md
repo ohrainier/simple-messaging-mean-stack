@@ -1,5 +1,5 @@
 # Simple messaging using mean stack
-A simple messaging web app using MEAN Stack
+A simple messaging web app using MEAN Stack with REST Service to display messages
 
 **1. Install first the needed nodes js modules**
 
