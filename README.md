@@ -13,13 +13,13 @@ How to run this app:
  
 **3. Open the front-end directory module and run gulp**
 
- > `cd front-end`
+ > `cd PATH\TO\FOLDER\front-end`
  
  > `PATH\TO\FOLDER\front-end>gulp`
  
  **4. Open the back-end directory module and run server.js using gulp**
 
- > `cd back-end`
+ > `cd PATH\TO\FOLDER\back-end`
  
  > `PATH\TO\FOLDER\back-end>node server.js`
 
