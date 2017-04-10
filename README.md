@@ -1,6 +1,8 @@
 # Simple messaging using mean stack
 A simple messaging web app using MEAN Stack with REST Service to display messages
 
+How to run this app:
+
 **1. Install first the needed nodes js modules**
 
  > `npm install -g gulp bower generator-gulp-angular`
@@ -13,13 +15,13 @@ A simple messaging web app using MEAN Stack with REST Service to display message
 
  > `cd front-end`
  
- > `PATH-XXXXXX\front-end>gulp`
+ > `PATH\TO\FOLDER\front-end>gulp`
  
  **4. Open the back-end directory module and run server.js using gulp**
 
  > `cd back-end`
  
- > `PATH-XXXXXX\back-end>node server.js`
+ > `PATH\TO\FOLDER\back-end>node server.js`
 
  To Do:
  - [x] Message Posting
