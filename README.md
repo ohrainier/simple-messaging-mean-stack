@@ -26,5 +26,5 @@ How to run this app:
  To Do:
  - [x] Message Posting
  - [x] Displaying Message
- - [ ] Registration
+ - [x] Registration
  - [ ] Logging In
