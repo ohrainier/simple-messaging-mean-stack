@@ -22,9 +22,10 @@ How to run this app:
  > `cd PATH\TO\FOLDER\back-end`
  
  > `PATH\TO\FOLDER\back-end>node server.js`
+ 
 
  To Do:
  - [x] Message Posting
  - [x] Displaying Message
- - [x] Registration
+ - [ ] Registration
  - [ ] Logging In
