@@ -17,7 +17,7 @@ How to run this app:
 
  > `cd PATH\TO\FOLDER\front-end`
  
- > `PATH\TO\FOLDER\front-end>gulp`
+ > `PATH\TO\FOLDER\front-end>gulp serve`
  
  **4. Open the back-end directory module and run server.js using gulp**
 
