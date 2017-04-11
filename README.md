@@ -1,5 +1,7 @@
 # Simple messaging using mean stack
-A simple messaging web app using MEAN Stack with REST Service to display messages
+A simple messaging web app using MEAN Stack with REST Service to display messages.
+
+Used Node JS for the backend/REST web services, yeoman generator, Bower to install/update the node modules, gulp for task automation, SASS for css styling and MEAN Stack (MongoDB, ExpressJS, Angular and Node)
 
 How to run this app:
 
